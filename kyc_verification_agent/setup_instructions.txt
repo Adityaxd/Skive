@@ -1,0 +1,24 @@
+KYC Verification Agent - Setup Instructions
+
+Project Created Successfully!
+
+Next Steps:
+1. Copy the following files from Claude artifacts to app/ directory:
+   - kyc_verification_agent.py
+   - web_interface.py  
+   - enhanced_features.py
+
+2. Copy test_kyc_agent.py to tests/ directory
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Set your API key in .env file:
+   Edit .env and add your ANTHROPIC_API_KEY
+
+5. Start the application:
+   python scripts/deploy.py
+
+Project structure created at: kyc_verification_agent/
+After setup, access at: http://localhost:8501
+API docs will be at: http://localhost:8000/docs
