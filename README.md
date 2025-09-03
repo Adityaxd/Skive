@@ -1,5 +1,5 @@
-# Skive   [Disclaimer : This is not the complete project code and just a simplified version of the actual implementation, to learn more please contact me over my socials.]
-
+# Skive   
+## [Disclaimer : This is not the complete project code and just a simplified version of the actual implementation, to learn more please contact me over my socials.]
 ## Projects
 
 ### 🔍 Multi-Modal KYC Verification Agent
